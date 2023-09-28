@@ -1,7 +1,32 @@
-<a href="style.css"></a>
 .navbar{
+    color: black;
     width: 85%;
-    padding: 0
-    align ite
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.par{
+    color: blue;
+    font-size: 40;
+    padding: 0%;
+    margin: 0%;
+    display: flex; 
+    justify-content: flex-start;
+    align-items: start;
+}
+button{
+    color: red;
+   width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    background-color: red;
+    font-weight: bold;
+    border: 5px solid red;
+    color: white;
+
 
 }
